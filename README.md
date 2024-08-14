@@ -1,3 +1,3 @@
-# Adivina el juego.
+# Juegos Desarrollados en Python.
 
-Son juegos desarrollado con la libreria random.
+Son juegos desarrollados en python con la libreria random.
