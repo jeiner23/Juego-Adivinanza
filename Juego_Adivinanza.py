@@ -1,7 +1,7 @@
 import random
 
 
-def jurgo_adivinanza():
+def juego_adivinanza():
     numero_secreto = random.randint(1, 100)
     intentos = 0
     adivinado = False
@@ -32,4 +32,4 @@ def jurgo_adivinanza():
             print("Introduzca un  umero valido entre el 1 y el 100")
 
 
-jurgo_adivinanza()
+juego_adivinanza()
